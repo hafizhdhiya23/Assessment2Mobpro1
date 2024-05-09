@@ -1,3 +1,25 @@
 <resources>
-    <string name="app_name">Assessment2Mobpro1</string>
+    <string name="app_name">SaSa (Sahabat Sampah)</string>
+    <string name="list_kosong">Belum ada data sampah</string>
+    <string name="x_diklik">%1$s diklik!</string>
+    <string name="tambah_catatan">Tambah Data Sampah</string>
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+    <string name="edit_catatan">Ubah Data Sampah</string>
+    <string name="invalid">Data Sampah tidak boleh kosong.</string>
+    <string name="lainnya">Opsi lainnya</string>
+    <string name="hapus">Hapus Data Sampah</string>
+    <string name="pesan_hapus">Hapus Data Sampah Ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="list">Tampilan list</string>
+    <string name="grid">Tampilan grid</string>
+    <string name="nama_pengguna">Nama Pengguna</string>
+    <string name="kategori_sampah">Kategori Sampah</string>
+    <string name="berat_kg">Berat (kg)</string>
+    <string name="tanggal_penjemputan">Tanggal Penjemputan</string>
+    <string name="alamat">Alamat</string>
+    <string name="organik">Organik</string>
+    <string name="anorganik">Anorganik</string>
+    <string name="select_date">Pilih Tanggal</string>
 </resources>
